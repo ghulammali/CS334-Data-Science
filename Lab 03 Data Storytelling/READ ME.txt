@@ -1,0 +1,9 @@
+My Jupyter Notebook has some weird bug. It's not creating checkpoints (sometimes only 1 checkpoints per session)
+
+I lost all my progress in 3rd part when I closed notebook. So I had to do 3rd part again, luckily, it created checkpoint at the end before my 3rd was complete.
+
+So, I have created html file of my complete lab. lab3.ipyb may have some missing issue as I was unable to create checkpoints again in session.
+
+For complete version of my submission, refer to my html file of lab 3.
+
+Regards
